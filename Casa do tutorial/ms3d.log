@@ -1,0 +1,3970 @@
+MilkShape 3D 1.7.0
+Parsing OpenGL configuration...
+Initializing mxToolKit...
+Loading globals...
+Creating Application...
+Initializing DevIL...
+Loading...
+Initializing PluginManager...
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3DSExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3DSExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3DSImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3DSImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3dtExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3dtExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msABCExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msABCExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msABCImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msABCImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msAlignment.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msAlignment.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msASCIIExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msASCIIExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msASCIIImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msASCIIImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBasePlug.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBasePlug.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBlitz3DExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBlitz3DExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBridge.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBridge.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msClean.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msClean.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msCPP.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msCreateFace.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msCreateFace.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msD3DExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msD3DExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msDirectXMeshTools.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msDirectXMeshTools.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msExtrudeEdges.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msExtrudeEdges.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msGenMAPExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msGenMAPExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msGLMImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msGLMImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msHeightMap.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msHeightMap.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msHideFaces.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msHideFaces.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msJointTool.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msJointTool.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLathe.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLathe.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLUVImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLUVImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLWOExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLWOExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLWOImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLWOImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msManualEdit.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msManualEdit.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMAPExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMAPExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDCImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDCImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDCImporter2.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDCImporter2.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDLDecompiler.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDLDecompiler.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDXImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDXImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msModelLib.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNebulaExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNebulaExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNODExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNODExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNODImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNODImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNovodeX.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNovodeX.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOperationMirrorAll.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOperationMirrorAll.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOperationSmoothEdge.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOperationSmoothEdge.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOrbiterMesh.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOrbiterMesh.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPOVRay35Exporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPOVRay35Exporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPrimitiveObject.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPrimitiveObject.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPSKExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPSKExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPSKImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPSKImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msQOBImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msQOBImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRawExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRawExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRawImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRawImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRF2Exporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRF2Exporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRF2Importer.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRF2Importer.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRIBExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRIBExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRotateAll.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRotateAll.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msScaleAnim.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msScaleAnim.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSelectionEditor.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSelectionEditor.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSelPolyCount.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSelPolyCount.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msShortCutMgr.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msShortCutMgr.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSnap.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSnap.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msStretch.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msStretch.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTerGen.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTerGen.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTextGen.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTextGen.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTileTextureMapper.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTileTextureMapper.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTMDImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTMDImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolArray.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolArray.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolCleanModel.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolCleanModel.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolExplode.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolExplode.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolFatBoy.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolFatBoy.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolJS.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolJS.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolReverseAnimation.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolReverseAnimation.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolScaleAll.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolScaleAll.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msUnify.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msUnify.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\MSVCP60.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msVertexPlane.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msVertexPlane.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msVRML97Exporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msVRML97Exporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msXExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msXExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msXSIImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msXSIImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msYafray.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msYafray.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msZy3DOExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msZy3DOExporter.dll
+Creating menubar...
+Creating message window...
+Creating ViewportManager...
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 5
+
+PixelFormat = 5
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 5
+
+PixelFormat = 5
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 5
+
+PixelFormat = 5
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 5
+
+PixelFormat = 5
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+Creating ControlPanel...
+Creating Material Preview...
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 5
+
+PixelFormat = 5
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+Creating StatusBar...
+Creating TexCoordEditor...
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 5
+
+PixelFormat = 5
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+Creating KeyFramer...
+Creating Preferences...
+Initializing keyframer...
+Max Tex Size: 2048
+Downloading background textures...
+
+glGetStrings:
+GeForce4 MX 4000/AGP/SSE2
+NVIDIA Corporation
+1.4.1
+GL_ARB_imaging GL_ARB_multitexture GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_texture_compression GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_dot3 GL_ARB_texture_mirrored_repeat GL_ARB_transpose_matrix GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_window_pos GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_clip_volume_hint GL_EXT_compiled_vertex_array GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_multi_draw_arrays GL_EXT_packed_pixels GL_EXT_paletted_texture GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_specular_color GL_EXT_shared_texture_palette GL_EXT_stencil_wrap GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_object GL_EXT_vertex_array GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KTX_buffer_region GL_NV_blend_square GL_NV_fence GL_NV_fog_distance GL_NV_light_max_exponent GL_NV_packed_depth_stencil GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_register_combiners GL_NV_texgen_reflection GL_NV_texture_env_combine4 GL_NV_texture_rectangle GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NVX_ycrcb GL_SGIS_generate_mipmap GL_SGIS_multitexture GL_SGIS_texture_lod GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
+Settings window placement...
+Preparing Context...
+Done.
+1
+2
+Running application...
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select Group
+Undo: Move
+Undo: Select Invert
+Undo: Select Group
+Undo: Select Group
+Undo: Select Group
+Undo: Select Group
+Undo: Select Group
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Select Group
+Undo: Move
+Undo: Select Group
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Select Group
+Undo: Select Group
+Undo: Rotate Texture Coordinates
+Undo: Rotate Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Select Group
+Undo: Select Group
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Move
+Undo: Select Group
+Undo: Select Group
+Undo: Remap Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select Group
+Undo: Move
+Undo: Select None
+Undo: Select Group
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select None
+Undo: Select Group
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Select None
+Undo: Select Group
+Undo: Scale Texture Coordinates
+Undo: Select None
+Undo: Select Group
+Undo: Select None
+Undo: Select Group
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Select None
+Undo: Select Group
+Undo: Remap Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select None
+Undo: Select Group
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select None
+Undo: Select Group
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select Group
+Undo: Select None
+Undo: Select Group
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select Group
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Regroup Selected Faces
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Regroup Selected Faces
+Undo: Rename Group
+Undo: Rename Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Regroup Selected Faces
+Undo: Rename Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Regroup Selected Faces
+Undo: Rename Group
+Undo: Select Group
+Undo: Select Group
+Undo: Select Group
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Regroup Selected Faces
+Undo: Select Group
+Undo: Regroup Selected Faces
+Undo: Rename Group
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select Group
+Undo: Select Group
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Regroup Selected Faces
+Undo: Select Group
+Undo: Regroup Selected Faces
+Undo: Rename Group
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select Group
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Regroup Selected Faces
+Undo: Select Group
+Undo: Regroup Selected Faces
+Undo: Rename Group
+Undo: Select Group
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Regroup Selected Faces
+Undo: Select Group
+Undo: Regroup Selected Faces
+Undo: Rename Group
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Regroup Selected Faces
+Undo: Select Group
+Undo: Regroup Selected Faces
+Undo: Rename Group
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Remove Group
+Undo: Select Group
+Undo: Select Group
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select Group
+Undo: Select Group
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select Group
+Undo: Regroup Selected Faces
+Undo: Rename Group
+Undo: Rename Group
+Undo: Select
+Undo: Select
+Undo: Select Group
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select
+Undo: Select Group
+Undo: Remap Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select
+Undo: Select Group
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select
+Undo: Select Group
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select
+Undo: Select Group
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Select
+Undo: Select Group
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Create Box
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Regroup Selected Faces
+Undo: Rename Group
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Scale
+Undo: Scale
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Rotate
+Undo: Select Group
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Remap Texture Coordinates
+Undo: Scale Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Delete Selection
+Undo: Select Group
+Undo: Remap Texture Coordinates
+Undo: Move Texture Coordinates
+Undo: Rotate
+Undo: Rotate
+Undo: Rotate
+Undo: Rotate
+Undo: Rotate
+Undo: Rotate
+Undo: Rotate
+Undo: Rotate
+Undo: Rotate
+Undo: Rotate
+Undo: Rotate
+Undo: Rotate
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Create Face: vertex 2 selected (1. vertex in face)
+
+Create Face: vertex 1 selected (2. vertex in face)
+
+Create Face: vertex 9 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 0 selected (1. vertex in face)
+
+Create Face: vertex 9 selected (2. vertex in face)
+
+Create Face: vertex 1 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 8 selected (1. vertex in face)
+
+Create Face: vertex 9 selected (2. vertex in face)
+
+Create Face: vertex 3 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 3 selected (1. vertex in face)
+
+Create Face: vertex 9 selected (2. vertex in face)
+
+Create Face: vertex 8 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 2 selected (1. vertex in face)
+
+Create Face: vertex 9 selected (2. vertex in face)
+
+Create Face: vertex 3 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 3 selected (1. vertex in face)
+
+Create Face: vertex 8 selected (2. vertex in face)
+
+Create Face: vertex 7 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 3 selected (1. vertex in face)
+
+Create Face: vertex 8 selected (2. vertex in face)
+
+Create Face: vertex 4 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 3 selected (1. vertex in face)
+
+Create Face: vertex 7 selected (2. vertex in face)
+
+Create Face: vertex 4 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 4 selected (1. vertex in face)
+
+Create Face: vertex 6 selected (2. vertex in face)
+
+Create Face: vertex 5 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 4 selected (1. vertex in face)
+
+Create Face: vertex 7 selected (2. vertex in face)
+
+Create Face: vertex 6 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Select
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Create Face: vertex 1 selected (1. vertex in face)
+
+Create Face: vertex 10 selected (2. vertex in face)
+
+Create Face: vertex 2 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 2 selected (1. vertex in face)
+
+Create Face: vertex 10 selected (2. vertex in face)
+
+Create Face: vertex 1 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 11 selected (1. vertex in face)
+
+Create Face: vertex 10 selected (2. vertex in face)
+
+Create Face: vertex 2 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 12 selected (1. vertex in face)
+
+Create Face: vertex 11 selected (2. vertex in face)
+
+Create Face: vertex 3 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 3 selected (1. vertex in face)
+
+Create Face: vertex 11 selected (2. vertex in face)
+
+Create Face: vertex 2 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 4 selected (1. vertex in face)
+
+Create Face: vertex 12 selected (2. vertex in face)
+
+Create Face: vertex 3 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 4 selected (1. vertex in face)
+
+Create Face: vertex 13 selected (2. vertex in face)
+
+Create Face: vertex 12 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 5 selected (1. vertex in face)
+
+Create Face: vertex 14 selected (2. vertex in face)
+
+Create Face: vertex 13 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 5 selected (1. vertex in face)
+
+Create Face: vertex 13 selected (2. vertex in face)
+
+Create Face: vertex 4 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Create Face: vertex 0 selected (1. vertex in face)
+
+Create Face: vertex 15 selected (2. vertex in face)
+
+Create Face: vertex 17 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 17 selected (1. vertex in face)
+
+Create Face: vertex 15 selected (2. vertex in face)
+
+Create Face: vertex 0 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 0 selected (1. vertex in face)
+
+Create Face: vertex 1 selected (2. vertex in face)
+
+Create Face: vertex 17 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 1 selected (1. vertex in face)
+
+Create Face: vertex 10 selected (2. vertex in face)
+
+Create Face: vertex 20 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 1 selected (1. vertex in face)
+
+Create Face: vertex 20 selected (2. vertex in face)
+
+Create Face: vertex 17 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 17 selected (1. vertex in face)
+
+Create Face: vertex 20 selected (2. vertex in face)
+
+Create Face: vertex 19 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 17 selected (1. vertex in face)
+
+Create Face: vertex 19 selected (2. vertex in face)
+
+Create Face: vertex 18 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 15 selected (1. vertex in face)
+
+Create Face: vertex 17 selected (2. vertex in face)
+
+Create Face: vertex 18 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 15 selected (1. vertex in face)
+
+Create Face: vertex 18 selected (2. vertex in face)
+
+Create Face: vertex 16 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Create Face: vertex 14 selected (1. vertex in face)
+
+Create Face: vertex 25 selected (2. vertex in face)
+
+Create Face: vertex 24 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Create Face: vertex 14 selected (1. vertex in face)
+
+Create Face: vertex 24 selected (2. vertex in face)
+
+Create Face: vertex 13 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 13 selected (1. vertex in face)
+
+Create Face: vertex 23 selected (2. vertex in face)
+
+Create Face: vertex 12 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 24 selected (1. vertex in face)
+
+Create Face: vertex 13 selected (2. vertex in face)
+
+Create Face: vertex 23 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 13 selected (1. vertex in face)
+
+Create Face: vertex 24 selected (2. vertex in face)
+
+Create Face: vertex 23 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 12 selected (1. vertex in face)
+
+Create Face: vertex 22 selected (2. vertex in face)
+
+Create Face: vertex 11 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 12 selected (1. vertex in face)
+
+Create Face: vertex 23 selected (2. vertex in face)
+
+Create Face: vertex 22 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 11 selected (1. vertex in face)
+
+Create Face: vertex 22 selected (2. vertex in face)
+
+Create Face: vertex 21 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 21 selected (1. vertex in face)
+
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 19 selected (1. vertex in face)
+
+Create Face: vertex 20 selected (2. vertex in face)
+
+Create Face: vertex 21 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 21 selected (1. vertex in face)
+
+Create Face: vertex 20 selected (2. vertex in face)
+
+Create Face: vertex 10 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 11 selected (1. vertex in face)
+
+Create Face: vertex 21 selected (2. vertex in face)
+
+Create Face: vertex 10 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Create Face: vertex 25 selected (1. vertex in face)
+
+Create Face: vertex 31 selected (2. vertex in face)
+
+Create Face: vertex 30 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Hide Selection
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Create Face: vertex 25 selected (1. vertex in face)
+
+Create Face: vertex 30 selected (2. vertex in face)
+
+Create Face: vertex 24 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 24 selected (1. vertex in face)
+
+Create Face: vertex 30 selected (2. vertex in face)
+
+Create Face: vertex 29 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 24 selected (1. vertex in face)
+
+Create Face: vertex 29 selected (2. vertex in face)
+
+Create Face: vertex 23 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 23 selected (1. vertex in face)
+
+Create Face: vertex 29 selected (2. vertex in face)
+
+Create Face: vertex 28 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 23 selected (1. vertex in face)
+
+Create Face: vertex 28 selected (2. vertex in face)
+
+Create Face: vertex 22 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 22 selected (1. vertex in face)
+
+Create Face: vertex 28 selected (2. vertex in face)
+
+Create Face: vertex 21 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 21 selected (1. vertex in face)
+
+Create Face: vertex 28 selected (2. vertex in face)
+
+Create Face: vertex 27 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 21 selected (1. vertex in face)
+
+Create Face: vertex 27 selected (2. vertex in face)
+
+Create Face: vertex 19 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 19 selected (1. vertex in face)
+
+Create Face: vertex 27 selected (2. vertex in face)
+
+Create Face: vertex 26 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 19 selected (1. vertex in face)
+
+Create Face: vertex 26 selected (2. vertex in face)
+
+Create Face: vertex 18 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 18 selected (1. vertex in face)
+
+Create Face: vertex 26 selected (2. vertex in face)
+
+Create Face: vertex 18 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 26 selected (1. vertex in face)
+
+Create Face: vertex 18 selected (2. vertex in face)
+
+Create Face: vertex 16 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 16 selected (1. vertex in face)
+
+Create Face: vertex 18 selected (2. vertex in face)
+
+Create Face: vertex 26 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Create Vertex
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Create Face: vertex 19 selected (1. vertex in face)
+
+Create Face: vertex 19 selected (2. vertex in face)
+
+Undo: Select
+Create Face: vertex 18 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 16 selected (2. vertex in face)
+
+Create Face: vertex 19 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 19 selected (1. vertex in face)
+
+Create Face: vertex 32 selected (2. vertex in face)
+
+Create Face: vertex 16 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 18 selected (1. vertex in face)
+
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Create Face: vertex 19 selected (1. vertex in face)
+
+Create Face: vertex 18 selected (2. vertex in face)
+
+Create Face: vertex 32 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 16 selected (1. vertex in face)
+
+Create Face: vertex 18 selected (2. vertex in face)
+
+Create Face: vertex 26 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 26 selected (1. vertex in face)
+
+Create Face: vertex 32 selected (2. vertex in face)
+
+Create Face: vertex 32 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 32 selected (2. vertex in face)
+
+Create Face: vertex 32 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 32 selected (2. vertex in face)
+
+Create Face: vertex 16 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 19 selected (1. vertex in face)
+
+Create Face: vertex 19 selected (2. vertex in face)
+
+Create Face: vertex 19 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Delete Selection
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 16 selected (2. vertex in face)
+
+Create Face: vertex 18 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 18 selected (2. vertex in face)
+
+Create Face: vertex 24 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 24 selected (1. vertex in face)
+
+Create Face: vertex 18 selected (2. vertex in face)
+
+Create Face: vertex 32 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 18 selected (2. vertex in face)
+
+Create Face: vertex 24 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 30 selected (1. vertex in face)
+
+Create Face: vertex 32 selected (2. vertex in face)
+
+Create Face: vertex 18 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 24 selected (1. vertex in face)
+
+Create Face: vertex 30 selected (2. vertex in face)
+
+Create Face: vertex 18 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 26 selected (1. vertex in face)
+
+Create Face: vertex 18 selected (2. vertex in face)
+
+Create Face: vertex 32 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 18 selected (2. vertex in face)
+
+Create Face: vertex 26 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 26 selected (2. vertex in face)
+
+Create Face: vertex 27 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Create Face: vertex 37 selected (1. vertex in face)
+
+Create Face: vertex 31 selected (2. vertex in face)
+
+Create Face: vertex 36 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 36 selected (1. vertex in face)
+
+Create Face: vertex 31 selected (2. vertex in face)
+
+Create Face: vertex 37 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 36 selected (1. vertex in face)
+
+Create Face: vertex 30 selected (2. vertex in face)
+
+Create Face: vertex 31 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 35 selected (1. vertex in face)
+
+Create Face: vertex 29 selected (2. vertex in face)
+
+Create Face: vertex 30 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 35 selected (1. vertex in face)
+
+Create Face: vertex 30 selected (2. vertex in face)
+
+Create Face: vertex 36 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 34 selected (1. vertex in face)
+
+Create Face: vertex 28 selected (2. vertex in face)
+
+Create Face: vertex 29 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 34 selected (1. vertex in face)
+
+Create Face: vertex 29 selected (2. vertex in face)
+
+Create Face: vertex 35 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 33 selected (1. vertex in face)
+
+Create Face: vertex 26 selected (2. vertex in face)
+
+Create Face: vertex 28 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 33 selected (1. vertex in face)
+
+Create Face: vertex 28 selected (2. vertex in face)
+
+Create Face: vertex 34 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 26 selected (2. vertex in face)
+
+Create Face: vertex 33 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 26 selected (1. vertex in face)
+
+Create Face: vertex 27 selected (2. vertex in face)
+
+Create Face: vertex 28 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Delete Selection
+Create Face: vertex 33 selected (1. vertex in face)
+
+Create Face: vertex 27 selected (2. vertex in face)
+
+Create Face: vertex 34 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 27 selected (2. vertex in face)
+
+Create Face: vertex 33 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 26 selected (1. vertex in face)
+
+Create Face: vertex 27 selected (2. vertex in face)
+
+Create Face: vertex 32 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 26 selected (1. vertex in face)
+
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 27 selected (1. vertex in face)
+
+Undo: Unhide All
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 27 selected (1. vertex in face)
+
+Create Face: vertex 33 selected (2. vertex in face)
+
+Create Face: vertex 3 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 17 selected (2. vertex in face)
+
+Create Face: vertex 27 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 27 selected (2. vertex in face)
+
+Create Face: vertex 1 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 33 selected (2. vertex in face)
+
+Create Face: vertex 17 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 17 selected (1. vertex in face)
+
+Create Face: vertex 32 selected (2. vertex in face)
+
+Create Face: vertex 27 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 26 selected (2. vertex in face)
+
+Create Face: vertex 17 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 26 selected (1. vertex in face)
+
+Create Face: vertex 32 selected (2. vertex in face)
+
+Create Face: vertex 31 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 32 selected (1. vertex in face)
+
+Create Face: vertex 26 selected (2. vertex in face)
+
+Create Face: vertex 1 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Create Face: vertex 27 selected (1. vertex in face)
+
+Create Face: vertex 33 selected (2. vertex in face)
+
+Create Face: vertex 32 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 26 selected (1. vertex in face)
+
+Undo: Select
+Undo: Select
+Undo: Select
+Create Face: vertex 27 selected (2. vertex in face)
+
+Create Face: vertex 21 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 26 selected (1. vertex in face)
+
+Create Face: vertex 27 selected (2. vertex in face)
+
+Create Face: vertex 21 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 21 selected (1. vertex in face)
+
+Create Face: vertex 27 selected (2. vertex in face)
+
+Create Face: vertex 26 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 21 selected (1. vertex in face)
+
+Create Face: vertex 26 selected (2. vertex in face)
+
+Create Face: vertex 19 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Undo: Unhide All
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Mirror Front <--> Back
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Create Face: vertex 37 selected (1. vertex in face)
+
+Create Face: vertex 38 selected (2. vertex in face)
+
+Create Face: vertex 5 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 37 selected (1. vertex in face)
+
+Create Face: vertex 5 selected (2. vertex in face)
+
+Create Face: vertex 6 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 38 selected (1. vertex in face)
+
+Create Face: vertex 14 selected (2. vertex in face)
+
+Create Face: vertex 5 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 6 selected (2. vertex in face)
+
+Create Face: vertex 30 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 36 selected (2. vertex in face)
+
+Create Face: vertex 30 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 30 selected (2. vertex in face)
+
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 30 selected (2. vertex in face)
+
+Create Face: vertex 39 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 17 selected (2. vertex in face)
+
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 17 selected (2. vertex in face)
+
+Create Face: vertex 39 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 40 selected (2. vertex in face)
+
+Create Face: vertex 17 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 6 selected (1. vertex in face)
+
+Create Face: vertex 39 selected (2. vertex in face)
+
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 40 selected (2. vertex in face)
+
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 39 selected (2. vertex in face)
+
+Undo: Select
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 40 selected (2. vertex in face)
+
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 38 selected (1. vertex in face)
+
+Create Face: vertex 40 selected (2. vertex in face)
+
+Create Face: vertex 39 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 35 selected (1. vertex in face)
+
+Create Face: vertex 24 selected (2. vertex in face)
+
+Create Face: vertex 13 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 38 selected (1. vertex in face)
+
+Create Face: vertex 39 selected (2. vertex in face)
+
+Create Face: vertex 14 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 38 selected (1. vertex in face)
+
+Create Face: vertex 14 selected (2. vertex in face)
+
+Create Face: vertex 5 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 30 selected (2. vertex in face)
+
+Create Face: vertex 14 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 30 selected (2. vertex in face)
+
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 25 selected (1. vertex in face)
+
+Create Face: vertex 39 selected (2. vertex in face)
+
+Create Face: vertex 30 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 14 selected (1. vertex in face)
+
+Create Face: vertex 25 selected (2. vertex in face)
+
+Create Face: vertex 39 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 25 selected (2. vertex in face)
+
+Create Face: vertex 14 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 37 selected (2. vertex in face)
+
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 37 selected (2. vertex in face)
+
+Create Face: vertex 6 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 37 selected (1. vertex in face)
+
+Create Face: vertex 39 selected (2. vertex in face)
+
+Create Face: vertex 30 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Create Face: vertex 38 selected (1. vertex in face)
+
+Create Face: vertex 40 selected (2. vertex in face)
+
+Create Face: vertex 39 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Select
+Undo: Select
+Undo: Move
+Create Face: vertex 37 selected (1. vertex in face)
+
+Create Face: vertex 38 selected (2. vertex in face)
+
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 37 selected (1. vertex in face)
+
+Create Face: vertex 38 selected (2. vertex in face)
+
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 37 selected (1. vertex in face)
+
+Create Face: vertex 40 selected (2. vertex in face)
+
+Create Face: vertex 38 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Move
+Create Face: vertex 25 selected (1. vertex in face)
+
+Create Face: vertex 37 selected (2. vertex in face)
+
+Create Face: vertex 29 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 37 selected (1. vertex in face)
+
+Create Face: vertex 34 selected (2. vertex in face)
+
+Create Face: vertex 29 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 37 selected (1. vertex in face)
+
+Create Face: vertex 38 selected (2. vertex in face)
+
+Create Face: vertex 34 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Unhide All
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Unhide All
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 38 selected (1. vertex in face)
+
+Create Face: vertex 37 selected (2. vertex in face)
+
+Create Face: vertex 39 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 38 selected (1. vertex in face)
+
+Create Face: vertex 37 selected (2. vertex in face)
+
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 39 selected (2. vertex in face)
+
+Create Face: vertex 37 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Undo: Create Vertex
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Unhide All
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Create Vertex
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Hide Selection
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Create Vertex
+Undo: Select
+Undo: Move
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 39 selected (2. vertex in face)
+
+Create Face: vertex 43 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 43 selected (1. vertex in face)
+
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Undo: Delete Selection
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Select
+Undo: Select
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 43 selected (2. vertex in face)
+
+Create Face: vertex 39 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 35 selected (2. vertex in face)
+
+Create Face: vertex 36 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 35 selected (2. vertex in face)
+
+Create Face: vertex 36 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 36 selected (2. vertex in face)
+
+Create Face: vertex 35 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 36 selected (2. vertex in face)
+
+Create Face: vertex 36 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 36 selected (1. vertex in face)
+
+Create Face: vertex 39 selected (2. vertex in face)
+
+Create Face: vertex 36 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 36 selected (1. vertex in face)
+
+Create Face: vertex 36 selected (2. vertex in face)
+
+Create Face: vertex 36 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: vertex 43 selected (2. vertex in face)
+
+Create Face: vertex 36 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 39 selected (1. vertex in face)
+
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 14 selected (1. vertex in face)
+
+Create Face: vertex 36 selected (2. vertex in face)
+
+Create Face: vertex 42 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 25 selected (1. vertex in face)
+
+Create Face: vertex 42 selected (2. vertex in face)
+
+Create Face: vertex 14 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 14 selected (1. vertex in face)
+
+Create Face: vertex 42 selected (2. vertex in face)
+
+Create Face: vertex 25 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 25 selected (1. vertex in face)
+
+Create Face: vertex 44 selected (2. vertex in face)
+
+Create Face: vertex 42 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 42 selected (1. vertex in face)
+
+Create Face: vertex 44 selected (2. vertex in face)
+
+Create Face: vertex 25 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 42 selected (1. vertex in face)
+
+Create Face: vertex 41 selected (2. vertex in face)
+
+Create Face: vertex 44 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 25 selected (1. vertex in face)
+
+Create Face: vertex 41 selected (2. vertex in face)
+
+Create Face: vertex 44 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 38 selected (1. vertex in face)
+
+Create Face: vertex 41 selected (2. vertex in face)
+
+Create Face: vertex 44 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 44 selected (1. vertex in face)
+
+Create Face: vertex 41 selected (2. vertex in face)
+
+Create Face: vertex 38 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 25 selected (1. vertex in face)
+
+Create Face: vertex 44 selected (2. vertex in face)
+
+Create Face: vertex 38 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 44 selected (1. vertex in face)
+
+Create Face: vertex 42 selected (2. vertex in face)
+
+Create Face: vertex 43 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 42 selected (1. vertex in face)
+
+Create Face: vertex 36 selected (2. vertex in face)
+
+Create Face: vertex 43 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 44 selected (1. vertex in face)
+
+Create Face: vertex 36 selected (2. vertex in face)
+
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 44 selected (1. vertex in face)
+
+Create Face: vertex 43 selected (2. vertex in face)
+
+Create Face: vertex 40 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 44 selected (1. vertex in face)
+
+Create Face: vertex 40 selected (2. vertex in face)
+
+Create Face: vertex 41 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 41 selected (1. vertex in face)
+
+Create Face: vertex 40 selected (2. vertex in face)
+
+Create Face: vertex 38 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 40 selected (1. vertex in face)
+
+Create Face: vertex 39 selected (2. vertex in face)
+
+Create Face: vertex 35 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Unhide All
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Create Face: vertex 38 selected (1. vertex in face)
+
+Create Face: vertex 37 selected (2. vertex in face)
+
+Create Face: vertex 44 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 42 selected (1. vertex in face)
+
+Create Face: vertex 37 selected (2. vertex in face)
+
+Create Face: vertex 44 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 25 selected (1. vertex in face)
+
+Create Face: vertex 37 selected (2. vertex in face)
+
+Create Face: vertex 44 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 44 selected (1. vertex in face)
+
+Create Face: vertex 37 selected (2. vertex in face)
+
+Create Face: vertex 25 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Extrude
+Undo: Unhide All
+Undo: Extrude
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Snap To Grid
+Undo: Hide Selection
+Undo: Select
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Select
+Create Face: vertex 61 selected (1. vertex in face)
+
+Create Face: vertex 60 selected (2. vertex in face)
+
+Create Face: vertex 66 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 61 selected (1. vertex in face)
+
+Create Face: vertex 58 selected (2. vertex in face)
+
+Create Face: vertex 73 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 77 selected (1. vertex in face)
+
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Create Face: vertex 51 selected (2. vertex in face)
+
+Undo: Select
+Undo: Select
+Create Face: vertex 57 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Delete Selection
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Delete Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Create Face: no vertex selected, aborted!
+
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Extrude
+Undo: Select
+Create Face: vertex 59 selected (1. vertex in face)
+
+Create Face: vertex 47 selected (2. vertex in face)
+
+Create Face: vertex 57 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 59 selected (1. vertex in face)
+
+Create Face: vertex 47 selected (2. vertex in face)
+
+Create Face: vertex 45 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: no vertex selected, aborted!
+
+Create Face: vertex 57 selected (1. vertex in face)
+
+Create Face: vertex 47 selected (2. vertex in face)
+
+Create Face: vertex 45 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 62 selected (1. vertex in face)
+
+Create Face: vertex 57 selected (2. vertex in face)
+
+Create Face: vertex 45 selected (3. vertex in face)
+
+Undo: Create Face
+Create Face: vertex 62 selected (1. vertex in face)
+
+Create Face: vertex 45 selected (2. vertex in face)
+
+Create Face: vertex 50 selected (3. vertex in face)
+
+Undo: Create Face
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Move
+Undo: Extrude
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Move
+Undo: Move
+Undo: Extrude
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Extrude
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Extrude
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Extrude
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Unhide All
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Move
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Duplicate Selection
+Undo: Mirror Left <--> Right
+Undo: Move
+Undo: Move
+Undo: Delete Selection
+Undo: Scale
+Undo: Scale
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Turn Edge
+Undo: Turn Edge
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Select
+Undo: Turn Edge
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Hide Selection
+Undo: Select
+Undo: Turn Edge
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Turn Edge
+Undo: Select
+Undo: Turn Edge
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Turn Edge
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Turn Edge
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Turn Edge
+Undo: Select
+Undo: Unhide All
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Turn Edge
+Undo: Select
+Undo: Turn Edge
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Select
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Undo: Move
+Cleaning up mxToolKit.
